@@ -93,20 +93,14 @@ Projeto desenvolvido pelos alunos do curso de **Análise e Desenvolvimento de Si
 **Gabriel Vinicius Rosa Pereira** – Desenvolvedor Frontend  
 Responsável pelo desenvolvimento da interface do usuário e implementação do frontend da aplicação.
 
-**Isabella Santos Leal** – Scrum Master  
-Responsável pela organização do projeto, desenvolvimento do protótipo, apoio na documentação, modelagem do sistema e definição da estrutura do projeto (requisitos, objetivos e organização geral).
-
-**Júlio César Manoel** – Desenvolvedor Backend  
-Responsável pelo desenvolvimento da lógica do sistema e implementação do backend utilizando C#.
+**Isabella Santos Leal** – Scrum Master & Desenvolvedora Backend  
+Responsável pela organização do projeto, desenvolvimento do protótipo, apoio na documentação, modelagem do sistema e definição da estrutura do projeto (requisitos, objetivos e organização geral) e responsável pelo desenvolvimento da lógica do sistema e implementação do backend utilizando C#.
 
 **Letícia Aparecida Santos Mota** – Banco de Dados  
 Responsável pela modelagem, estruturação e implementação do banco de dados do sistema.
 
 **Maria Fernanda de Assis** – Product Owner (PO)  
 Responsável pela organização da documentação do projeto, apoio na modelagem do sistema, estruturação dos requisitos e acompanhamento das definições do produto.
-
-**Thiago Modesto da Silva** – Desenvolvedor Backend  
-Responsável pelo desenvolvimento da lógica do sistema e implementação do backend utilizando C#.
 
 ---
 
